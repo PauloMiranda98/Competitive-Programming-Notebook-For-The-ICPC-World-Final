@@ -1,0 +1,29 @@
+\documentclass[9pt, a4paper, notitlepage]{extreport}
+\usepackage{kactlpkg}
+\kactlcontentdir{content}
+
+\university{UFC}{Federal University of Ceará}{ufc}
+\team{Disqualified}{Claro Henrique, Paulo Miranda, Michael Douglas e Wladimir Tavares}
+\contest{ICPC MOSCOW 2021}{\today}
+%\enablecolors
+
+\begin{document}
+	\maketeampage
+	% Small KACTL header on the first page:
+	% \maketitle{``One Last Time'' Edition}{\today}
+	\begin{multicols*}{3}
+		\thispagestyle{fancy}
+		% Table of contents, without subsections:
+		\setcounter{tocdepth}{0}
+		\tableofcontents
+
+		\kactlchapter{combinatorial}
+		\kactlchapter{data-structures}
+		\kactlchapter{dynamic-programming}
+		\kactlchapter{geometry}
+		\kactlchapter{graph}
+		\kactlchapter{math}
+		\kactlchapter{strings}
+		\kactlchapter{various}
+	\end{multicols*}
+\end{document}

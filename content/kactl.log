@@ -1,0 +1,58 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.8.31)  3 SEP 2021 21:57
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**/home/paulo/ProjetosGithub/Competitive-Programming-Notebook-For-The-ICPC-World-Final/content/kactl.tex
+(/home/paulo/ProjetosGithub/Competitive-Programming-Notebook-For-The-ICPC-World-Final/content/kactl.tex
+LaTeX2e <2020-02-02> patch level 2
+L3 programming layer <2020-02-14> (/usr/share/texlive/texmf-dist/tex/latex/extsizes/extreport.cls
+Document Class: extreport 1996/10/08 v1.0 Non Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/extsizes/size9.clo
+File: size9.clo 1999/11/11 v1.4a NON-Standard LaTeX file (size option)
+) (/usr/share/texlive/texmf-dist/tex/latex/base/exscale.sty
+Package: exscale 2018/09/24 v2.1i Standard LaTeX package exscale
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 57.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/cmex/m/n on input line 57.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/cmex/m/n on input line 57.
+\big@size=\dimen134
+)
+\c@part=\count167
+\c@chapter=\count168
+\c@section=\count169
+\c@subsection=\count170
+\c@subsubsection=\count171
+\c@paragraph=\count172
+\c@subparagraph=\count173
+\c@figure=\count174
+\c@table=\count175
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen135
+)
+
+! LaTeX Error: File `kactlpkg.sty' not found.
+
+Type X to quit or <RETURN> to proceed,
+or enter new name. (Default extension: sty)
+
+Enter file name: 
+/home/paulo/ProjetosGithub/Competitive-Programming-Notebook-For-The-ICPC-World-Final/content/kactl.tex:3: Emergency stop.
+<read *> 
+         
+l.3 \kactlcontentdir
+                    {content}^^M
+*** (cannot \read from terminal in nonstop modes)
+
+ 
+Here is how much of TeX's memory you used:
+ 271 strings out of 483183
+ 5239 string characters out of 5966292
+ 231602 words of memory out of 5000000
+ 15372 multiletter control sequences out of 15000+600000
+ 532637 words of font info for 25 fonts, out of 8000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 27i,0n,24p,298b,36s stack positions out of 5000i,500n,10000p,200000b,80000s
+/home/paulo/ProjetosGithub/Competitive-Programming-Notebook-For-The-ICPC-World-Final/content/kactl.tex:3:  ==> Fatal error occurred, no output PDF file produced!
